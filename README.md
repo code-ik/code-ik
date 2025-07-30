@@ -16,6 +16,13 @@
 
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-ik&layout=compact&theme=tokyonight)](https://github.com/code-ik/)
 
-## Locale
+## 🗺️ Locale
 
 ・Japan, Akita
+
+## 🪙 Donate
+
+I am a student and am in a very tight financial situation with the expense of maintaining my services.
+If you like my service/application, I would greatly appreciate it if you could donate in one of the following ways
+
+- [Patreon](https://patreon.com/code_ik?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
