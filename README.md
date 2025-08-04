@@ -2,8 +2,8 @@
 ## 👋 Hi there
 
 - 🧑‍💻 I'm a student engineer in the 13th grade at North Middle School.
-- 🌱 I’m currently learning!
-- 📫 How to reach me: [Twitter - @okiyasita](https://twitter.com/okiyasita)
+- ☁️ I develop a operation system called "Airo OS". base on openSUSE.
+- 🦎 I am a member of the openSUSE project and contribute to the project by translating, adding to, and modifying the Japanese version of the openSUSE wiki!
 <br>
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
